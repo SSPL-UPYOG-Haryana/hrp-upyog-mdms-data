@@ -3187,6 +3187,42 @@
       },
       "address": "Ambala Municipal Corporation, Ambala, Haryana 133001",
       "contactNumber": ""
+    },
+    {
+      "code": "hr.citya",
+      "name": "City A",
+      "description": "Ambala",
+      "pincode": [
+        133001
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ambala@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Ambala",
+        "localName": null,
+        "districtCode": "AMBALA",
+        "districtName": "Ambala",
+        "districtTenantCode": "hr.ambala",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 76.8458,
+        "latitude": 30.3782,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "AMBALA",
+        "ddrName": "Ambala Municipal Corporation"
+      },
+      "address": "Ambala Municipal Corporation, Ambala, Haryana 133001",
+      "contactNumber": ""
     }
   ]
 }

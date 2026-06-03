@@ -1224,5 +1224,20 @@
         "HR"
       ]
     }
+    ,
+    {
+      "code": "hr.citya",
+      "districtCode": "HISAR",
+      "population": "14532",
+      "malePopulation": "7560",
+      "femalePopulation": "6972",
+      "workingPopulation": "31.20",
+      "literacyRate": "69.50",
+      "languagesSpoken": [
+        "HI",
+        "EN",
+        "HR"
+      ]
+    }
   ]
 }
