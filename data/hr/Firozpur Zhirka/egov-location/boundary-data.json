@@ -1,5 +1,5 @@
 {
-  "tenantId": "hr.firozpurjhirka",
+  "tenantId": "hr.firozpurzhirka",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": "1",
         "boundaryNum": "1",
-        "name": "Firozpur Jhirka",
-        "localname": "Firozpur Jhirka",
+        "name": "Firozpur Zhirka",
+        "localname": "Firozpur Zhirka",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "hr.firozpurjhirka",
+        "code": "hr.firozpurzhirka",
         "children": [
           { "id": "1", "boundaryNum": "1", "name": "Ward 1", "localname": "Ward 1", "longitude": null, "latitude": null, "label": "Ward", "code": "FZJ01", "children": [] },
           { "id": "2", "boundaryNum": "1", "name": "Ward 2", "localname": "Ward 2", "longitude": null, "latitude": null, "label": "Ward", "code": "FZJ02", "children": [] },
@@ -41,12 +41,12 @@
       "boundary": {
         "id": "1",
         "boundaryNum": "1",
-        "name": "Firozpur Jhirka",
-        "localname": "Firozpur Jhirka",
+        "name": "Firozpur Zhirka",
+        "localname": "Firozpur Zhirka",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "hr.firozpurjhirka",
+        "code": "hr.firozpurzhirka",
         "children": []
       }
     }
