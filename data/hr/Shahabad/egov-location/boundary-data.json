@@ -10,12 +10,12 @@
       "boundary": {
         "id": "1",
         "boundaryNum": "1",
-        "name": "Shahbad",
-        "localname": "Shahbad",
+        "name": "Shahabad",
+        "localname": "Shahabad",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "hr.shahbad",
+        "code": "hr.shahabad",
         "children": [
           { "id": "1", "boundaryNum": "1", "name": "Ward 1", "localname": "Ward 1", "longitude": null, "latitude": null, "label": "Ward", "code": "SHB01", "children": [] },
           { "id": "2", "boundaryNum": "1", "name": "Ward 2", "localname": "Ward 2", "longitude": null, "latitude": null, "label": "Ward", "code": "SHB02", "children": [] },
@@ -41,12 +41,12 @@
       "boundary": {
         "id": "1",
         "boundaryNum": "1",
-        "name": "Shahbad",
-        "localname": "Shahbad",
+        "name": "Shahabad",
+        "localname": "Shahabad",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "hr.shahbad",
+        "code": "hr.shahabad",
         "children": []
       }
     }
