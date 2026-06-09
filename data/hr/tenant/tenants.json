@@ -1549,7 +1549,7 @@
       },
       "isPopular": false,
       "city": {
-        "name": "Firozpur Jhirka",
+        "name": "Firozpur Zhirka",
         "localName": null,
         "districtCode": "NUH",
         "districtName": "Nuh",
@@ -1560,10 +1560,10 @@
         "latitude": 27.7863,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "FIROZPURJHIRKA",
-        "ddrName": "Municipal Committee Firozpur Jhirka"
+        "code": "FIROZPURZHIRKA",
+        "ddrName": "Municipal Committee Firozpur Zhirka"
       },
-      "address": "Municipal Committee Firozpur Jhirka, Nuh, Haryana 122104",
+      "address": "Municipal Committee Firozpur Zhirka, Nuh, Haryana 122104",
       "contactNumber": ""
     },
     {
@@ -1891,9 +1891,9 @@
       "contactNumber": ""
     },
     {
-      "code": "hr.tarori",
-      "name": "Tarori",
-      "description": "Tarori",
+      "code": "hr.taraori",
+      "name": "Taraori",
+      "description": "Taraori",
       "pincode": [
         132116
       ],
@@ -1903,27 +1903,27 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "tarori@gmail.com",
+      "emailId": "taraori@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "isPopular": false,
       "city": {
-        "name": "Tarori",
+        "name": "Taraori",
         "localName": null,
         "districtCode": "KARNAL",
         "districtName": "Karnal",
-        "districtTenantCode": "hr.tarori",
+        "districtTenantCode": "hr.taraori",
         "regionName": "Haryana",
         "ulbGrade": "Municipal Committee",
         "longitude": 76.9920,
         "latitude": 29.8503,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "TARORI",
-        "ddrName": "Municipal Committee Tarori"
+        "code": "TARAORI",
+        "ddrName": "Municipal Committee Taraori"
       },
-      "address": "Municipal Committee Tarori, Karnal, Haryana 132116",
+      "address": "Municipal Committee Taraori, Karnal, Haryana 132116",
       "contactNumber": ""
     },
     {
