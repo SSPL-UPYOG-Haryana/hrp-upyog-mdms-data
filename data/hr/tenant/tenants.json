@@ -41,7 +41,7 @@
       "pincode": [
         171001
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/MCG%20LOGO.jpg",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -119,7 +119,7 @@
         134116,
         134117
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCP-Logo.png",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/MCP-Logo.png",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -159,7 +159,7 @@
         122102,
         122103
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/sohna1.png",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/sohna1.png",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -198,7 +198,7 @@
         122101,
         122105
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/Rewari.png",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/Rewari.png",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -235,7 +235,7 @@
       "pincode": [
         136118
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/Thanesar.png",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/Thanesar.png",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -273,7 +273,7 @@
         160055,
         160059
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/Farrukhnagar.png",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/Farrukhnagar.png",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -346,7 +346,7 @@
       "pincode": [
         176215
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/Haryana-logo.jpeg",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/Samalkha.png",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -381,7 +381,7 @@
       "pincode": [
         176215
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/Sampla.png",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/Sampla.png",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -416,7 +416,7 @@
       "pincode": [
         176215
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/Kundli1.png",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/kundli.png",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -451,7 +451,7 @@
       "pincode": [
         176215
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/ratia.png",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/ratia.png",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -557,7 +557,7 @@
       "pincode": [
         121102
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/palwal.jpeg",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/Palwal.png",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -592,7 +592,7 @@
       "pincode": [
         121103
       ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/hathin.jpeg",
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/Hathin.png",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
@@ -3190,38 +3190,38 @@
     },
     {
       "code": "hr.citya",
-      "name": "City A",
-      "description": "Ambala",
+      "name": "HQ",
+      "description": "HQ",
       "pincode": [
         133001
       ],
-      "logoId": null,
+      "logoId": "https://assets-hrdulb.sparrowsoftech.in/hr-dulb-asset/Haryana-logo.jpeg",
       "imageId": null,
       "domainUrl": "https://finance.ulbharyana.gov.in",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "ambala@gmail.com",
+      "emailId": "hq@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "isPopular": true,
       "city": {
-        "name": "Ambala",
+        "name": "HQ",
         "localName": null,
-        "districtCode": "AMBALA",
-        "districtName": "Ambala",
-        "districtTenantCode": "hr.ambala",
+        "districtCode": "HQ",
+        "districtName": "HQ",
+        "districtTenantCode": "hr.citya",
         "regionName": "Haryana",
         "ulbGrade": "Municipal Corporation",
         "longitude": 76.8458,
         "latitude": 30.3782,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "AMBALA",
-        "ddrName": "Ambala Municipal Corporation"
+        "code": "HQ",
+        "ddrName": "HQ Municipal Corporation"
       },
-      "address": "Ambala Municipal Corporation, Ambala, Haryana 133001",
+      "address": "HQ Municipal Corporation, Head Quater, Haryana 133001",
       "contactNumber": ""
     }
   ]
