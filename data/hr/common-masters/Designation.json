@@ -265,6 +265,60 @@
       "name": "Technical Expert",
       "description": "Technical Expert",
       "active": true
+    },
+    {
+      "code": "DESIG_45",
+      "name": "Commissioner",
+      "description": "Commissioner",
+      "active": true
+    },
+    {
+      "code": "DESIG_46",
+      "name": "Deputy Municipal Commissioner",
+      "description": "Deputy Municipal Commissioner",
+      "active": true
+    },
+    {
+      "code": "DESIG_47",
+      "name": "Sanitary Inspector",
+      "description": "Sanitary Inspector",
+      "active": true
+    },
+    {
+      "code": "DESIG_48",
+      "name": "Finance Assistant",
+      "description": "Finance Assistant",
+      "active": true
+    },
+    {
+      "code": "DESIG_49",
+      "name": "Inspector",
+      "description": "Inspector",
+      "active": true
+    },
+    {
+      "code": "DESIG_50",
+      "name": "Inspector",
+      "description": "Inspector",
+      "active": true
+    },
+    {
+      "code": "DESIG_51",
+      "name": "Senior Sanitary Inspector",
+      "description": "Senior Sanitary Inspector",
+      "active": true
+    },
+    {
+      "code": "DESIG_52",
+      "name": "District Town Planner",
+      "description": "District Town Planner",
+      "active": true
+    },
+    {
+      "code": "DESIG_52",
+      "name": "City Project Officer",
+      "description": "City Project Officer",
+      "active": true
     }
   ]
 }
