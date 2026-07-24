@@ -1,5 +1,5 @@
 {
-  "tenantId": "hr.mahendragarh",
+  "tenantId": "hr.mahendergarh",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": "1",
         "boundaryNum": "1",
-        "name": "Mahendragarh",
-        "localname": "Mahendragarh",
+        "name": "Mahendergarh",
+        "localname": "Mahendergarh",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "hr.mahendragarh",
+        "code": "hr.mahendergarh",
         "children": [
           { "id": "1", "boundaryNum": "1", "name": "Ward 1", "localname": "Ward 1", "longitude": null, "latitude": null, "label": "Ward", "code": "MHG01", "children": [] },
           { "id": "2", "boundaryNum": "1", "name": "Ward 2", "localname": "Ward 2", "longitude": null, "latitude": null, "label": "Ward", "code": "MHG02", "children": [] },
@@ -41,12 +41,12 @@
       "boundary": {
         "id": "1",
         "boundaryNum": "1",
-        "name": "Mahendragarh",
-        "localname": "Mahendragarh",
+        "name": "Mahendergarh",
+        "localname": "Mahendergarh",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "hr.mahendragarh",
+        "code": "hr.mahendergarh",
         "children": []
       }
     }

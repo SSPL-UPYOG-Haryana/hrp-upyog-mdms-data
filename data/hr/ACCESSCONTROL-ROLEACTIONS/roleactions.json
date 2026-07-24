@@ -30900,6 +30900,30 @@
       "actionid": 2926,
       "actioncode": "",
       "tenantId": "hr"
-    }    
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2927,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+	{
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 2927,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2928,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+	{
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 2928,
+      "actioncode": "",
+      "tenantId": "hr"
+    }
   ]
 }

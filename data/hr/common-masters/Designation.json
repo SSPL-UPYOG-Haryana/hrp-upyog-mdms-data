@@ -319,6 +319,18 @@
       "name": "City Project Officer",
       "description": "City Project Officer",
       "active": true
+    },
+    {
+      "code": "DESIG_53",
+      "name": "Chief Sanitary Inspector",
+      "description": "Chief Sanitary Inspector",
+      "active": true
+    },
+    {
+      "code": "DESIG_54",
+      "name": "Light Inspector",
+      "description": "Light Inspector",
+      "active": true
     }
   ]
 }
