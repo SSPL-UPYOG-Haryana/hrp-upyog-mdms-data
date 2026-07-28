@@ -19694,6 +19694,7 @@
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
+	  "leftIcon": "editor:insert-chart",
       "serviceCode": "collection-masters",
       "code": "collection-masters.bankAccountServiceMapping",
       "path": "Finance.Service Mapping.Create Bankaccount Mapping"
@@ -19706,6 +19707,7 @@
       "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
+	  "leftIcon": "editor:insert-chart",
       "serviceCode": "collection-masters",
       "code": "collection-masters.bankAccountServiceMapping",
       "path": "Finance.Service Mapping.View Bankaccount Mapping"

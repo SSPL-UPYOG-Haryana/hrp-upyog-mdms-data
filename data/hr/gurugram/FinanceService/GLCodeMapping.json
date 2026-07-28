@@ -1445,6 +1445,16 @@
       "debitGL": "4502100003",
       "creditGL": "4502100003",
       "active": true
+    },
+    {
+      "serviceCode": "MT",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "MTCC05",
+      "debitGL": "4502100003",
+      "creditGL": "4502100003",
+      "active": true
     }
   ]
 }
