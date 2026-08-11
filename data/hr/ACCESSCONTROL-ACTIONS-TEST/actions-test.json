@@ -19711,6 +19711,34 @@
       "serviceCode": "collection-masters",
       "code": "collection-masters.bankAccountServiceMapping",
       "path": "Finance.Service Mapping.View Bankaccount Mapping"
+    },
+	  {
+      "id": 2929,
+      "name": "Data Migration",
+      "navigationURL": "",
+      "url": "url",
+      "parentModule": "LDM",
+      "displayName": "Data Migration",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "DataMigration",
+      "code": "Finance.migration",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.migration"
+    },
+	  {
+      "id": 2929,
+      "name": "Msters",
+      "navigationURL": "",
+      "url": "url",
+      "parentModule": "LDM",
+      "displayName": "Masters",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "DataMigration",
+      "code": "Finance.migration",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.migration.masters"
     }
   ]
 }
