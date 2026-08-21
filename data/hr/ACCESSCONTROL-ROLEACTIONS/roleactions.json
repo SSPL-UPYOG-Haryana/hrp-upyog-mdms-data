@@ -31194,6 +31194,36 @@
 	    "actionid": 1736,
 	    "actioncode": "",
 	    "tenantId": "hr"
-	  }
+	  },
+	  {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 1632,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+	  {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 1691,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+	  {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 1693,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+	  {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 1698,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+	  {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 1703,
+      "actioncode": "",
+      "tenantId": "hr"
+    }
   ]
 }
