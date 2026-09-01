@@ -19693,7 +19693,7 @@
       "displayName": "Create Bankaccount Mapping",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
 	  "leftIcon": "editor:insert-chart",
       "serviceCode": "collection-masters",
       "code": "collection-masters.bankAccountServiceMapping",
@@ -19706,7 +19706,7 @@
       "displayName": "View Bankaccount Mapping",
       "orderNumber": 2,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
 	  "leftIcon": "editor:insert-chart",
       "serviceCode": "collection-masters",
       "code": "collection-masters.bankAccountServiceMapping",
@@ -19715,9 +19715,9 @@
 	{
       "id": 2929,
       "name": "Data Migration",
-      "navigationURL": "services/LDM/home",
+      "navigationURL": "services/EGF/migration",
       "url": "url",
-      "parentModule": "LDM",
+      "parentModule": "EGF",
       "displayName": "Data Migration",
       "orderNumber": 1,
       "enabled": true,
@@ -19725,6 +19725,34 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.migration"
+    },
+	{
+      "id": 1704,
+      "name": "Service Bankaccount",
+      "url": "url",
+      "displayName": "Create Bankaccount Mapping",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Collections",
+      "code": "null",
+      "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-newform.action",
+      "leftIcon": "image:collections",
+      "path": "Finance.Masters.Bank Account Mapping.Create Bankaccount Mapping"
+    },
+    {
+      "id": 1705,
+      "name": "Service Bankaccount",
+      "url": "url",
+      "displayName": "View Bankaccount Mapping",
+      "orderNumber": 6,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Collections",
+      "code": "null",
+      "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-list.action",
+      "leftIcon": "image:collections",
+      "path": "Finance.Masters.Bank Account Mapping.View Bankaccount Mapping"
     }
   ]
 }
