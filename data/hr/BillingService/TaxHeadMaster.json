@@ -1149,6 +1149,599 @@
       "order": "0",
       "isRequired": false
     },
+{
+    "category": "FEE",
+    "service": "ADMNSTRTV_CHRG",
+    "name": "Refund Fee(-)",
+    "code": "ADMNSTRTV_CHRG_REFUND_FEE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "ADMNSTRTV_CHRG",
+    "name": "Administrative Charges",
+    "code": "ADMNSTRTV_CHRG_ADMINISTRATIVE_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "FEE",
+    "service": "ADVANCE_DEPOSIT",
+    "name": "Advance and Deposite",
+    "code": "ADVANE_DEPOSIT_ADVANCE_AND_DEPOSITE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "ADVANCE_DEPOSIT",
+    "name": "Refund Fee(-)",
+    "code": "ADVANE_DEPOSIT_REFUND_FEE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "TAX",
+    "service": "ADVTMT",
+    "name": "C-GST",
+    "code": "ADVTMT_CGST",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "ADVTMT",
+    "name": "I-GST",
+    "code": "ADVTMT_IGST",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "ADVTMT",
+    "name": "S-GST",
+    "code": "ADVTMT_SGST",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "ADVTMT",
+    "name": "Refund Fee(-)",
+    "code": "ADVTMT_REFUND_FEE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "ADVTMT",
+    "name": "Advertisement",
+    "code": "ADVTMT_ADVERTISEMENT",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "FEE",
+    "service": "BIRTH_DEATH",
+    "name": "NonAvailability Certificate Fee",
+    "code": "BIRTH_DEATH_NONAVAILABILITY_CERTIFICATE_FEE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BIRTH_DEATH",
+    "name": "Registraion Fee",
+    "code": "BIRTH_DEATH_REGISTRAION_FEE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BIRTH_DEATH",
+    "name": "Search Fee",
+    "code": "BIRTH_DEATH_SEARCH_FEE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BIRTH_DEATH",
+    "name": "Name Inclusion Fee",
+    "code": "BIRTH_DEATH_NAME_INCLUSION_FEE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BIRTH_DEATH",
+    "name": "Refund Fee(-)",
+    "code": "BIRTH_DEATH_REFUND_FEE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BIRTH_DEATH",
+    "name": "Copy Fee",
+    "code": "BIRTH_DEATH_COPY_FEE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BIRTH_DEATH",
+    "name": "Penality",
+    "code": "BIRTH_DEATH_PENALITY",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "TAX",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "S-GST",
+    "code": "BLDNG_PLN_PSS_FEE_SGST",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "Drawing Design Fee",
+    "code": "BLDNG_PLN_PSS_FEE_DRAWING_DESIGN_FEE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "C-GST",
+    "code": "BLDNG_PLN_PSS_FEE_CGST",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "Building Plan Passing Fee",
+    "code": "BLDNG_PLN_PSS_FEE_BUILDING_PLAN_PASSING_FEE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "Refund Fee(-)",
+    "code": "BLDNG_PLN_PSS_FEE_REFUND_FEE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "Development Charges",
+    "code": "BLDNG_PLN_PSS_FEE_DEVELOPMENT_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "Penality",
+    "code": "BLDNG_PLN_PSS_FEE_PENALITY",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "I-GST",
+    "code": "BLDNG_PLN_PSS_FEE_IGST",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "Scrutiny Fee",
+    "code": "BLDNG_PLN_PSS_FEE_SCRUTINY_FEE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "Security Charges",
+    "code": "BLDNG_PLN_PSS_FEE_SECURITY_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "Malba Charges",
+    "code": "BLDNG_PLN_PSS_FEE_MALBA_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "Composition Charges",
+    "code": "BLDNG_PLN_PSS_FEE_COMPOSITION_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "BLDNG_PLN_PSS_FEE",
+    "name": "Labour Cess Charges",
+    "code": "BLDNG_PLN_PSS_FEE_LABOUR_CESS_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "FEE",
+    "service": "PROPERTY_CORRECTION",
+    "name": "Property Tatkal Service Charges",
+    "code": "PROPERTY_CORRECTION_PROPERTY_TATKAL_SERVICE_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "TAX",
+    "service": "PROPERTY_TAX",
+    "name": "Fire Tax Arrear",
+    "code": "PROPERTY_TAX_FIRE_TAX_ARREAR",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "PROPERTY_TAX",
+    "name": "Rebate On Arrear",
+    "code": "PROPERTY_TAX_REBATE_ON_ARREAR",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "PROPERTY_TAX",
+    "name": "Fire Tax",
+    "code": "PROPERTY_TAX_FIRE_TAX",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "PROPERTY_TAX",
+    "name": "Cashless Rebate(-)",
+    "code": "PROPERTY_TAX_CASHLESS_REBATE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "PROPERTY_TAX",
+    "name": "Property Tax",
+    "code": "PROPERTY_TAX_PROPERTY_TAX",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "PROPERTY_TAX",
+    "name": "Rebate(-)",
+    "code": "PROPERTY_TAX_REBATE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "PROPERTY_TAX",
+    "name": "Property Tax Good Payer Rebate",
+    "code": "PROPERTY_TAX_GOOD_PAYER_REBATE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "PROPERTY_TAX",
+    "name": "Property Tax Auto Debit Rebate",
+    "code": "PROPERTY_TAX_AUTO_DEBIT_REBATE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "PROPERTY_TAX",
+    "name": "Refund Fee(-)",
+    "code": "PROPERTY_TAX_REFUND_FEE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "PROPERTY_TAX",
+    "name": "Property Tax Arrear",
+    "code": "PROPERTY_TAX_PROPERTY_TAX_ARREAR",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "PROPERTY_TAX",
+    "name": "Rebate On Interest on Arrear",
+    "code": "PROPERTY_TAX_REBATE_ON_INTEREST_ON_ARREAR",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "TAX",
+    "service": "PROPERTY_TAX",
+    "name": "Interest on Arrear",
+    "code": "PROPERTY_TAX_INTEREST_ON_ARREAR",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SWG_CHRG",
+    "name": "Water Charges",
+    "code": "WTR_SWG_WTR_SWG_CHRG_WATER_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SWG_CHRG",
+    "name": "User Charges Rebate",
+    "code": "WTR_SWG_WTR_SWG_CHRG_USER_CHARGES_REBATE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SWG_CHRG",
+    "name": "User Charges Surcharge",
+    "code": "WTR_SWG_WTR_SWG_CHRG_USER_CHARGES_SURCHARGE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SWG_CHRG",
+    "name": "Refund Fee(-)",
+    "code": "WTR_SWG_WTR_SWG_CHRG_REFUND_FEE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SWG_CHRG",
+    "name": "Sewer Charges",
+    "code": "WTR_SWG_WTR_SWG_CHRG_SEWER_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SWG_CHRG",
+    "name": "User Charges Arrear",
+    "code": "WTR_SWG_WTR_SWG_CHRG_USER_CHARGES_ARREAR",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SVRG_BILL",
+    "name": "Sewer Receipt/Waste Water Charges",
+    "code": "WTR_SWG_WTR_SVRG_BILL_SEWER_RECEIPT_WASTE_WATER_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SVRG_BILL",
+    "name": "Water Receipt",
+    "code": "WTR_SWG_WTR_SVRG_BILL_WATER_RECEIPT",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SVRG_BILL",
+    "name": "Refund Fee(-)",
+    "code": "WTR_SWG_WTR_SVRG_BILL_REFUND_FEE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SWG_OWNR_CHNG_FEE",
+    "name": "Water & Sewer Connection Ownership change Fee",
+    "code": "WTR_SWG_WTR_SWG_OWNR_CHNG_FEE_OWNERSHIP_CHANGE_FEE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SWG_OWNR_CHNG_FEE",
+    "name": "Refund Fee(-)",
+    "code": "WTR_SWG_WTR_SWG_OWNR_CHNG_FEE_REFUND_FEE",
+    "isDebit": true,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_CON_SRVCS",
+    "name": "Water Meter Testing Charges",
+    "code": "WTR_SWG_WTR_CON_SRVCS_WATER_METER_TESTING_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_CON_SRVCS",
+    "name": "Water Connection Charges",
+    "code": "WTR_SWG_WTR_CON_SRVCS_WATER_CONNECTION_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_CON_SRVCS",
+    "name": "Road Cut Charges",
+    "code": "WTR_SWG_WTR_CON_SRVCS_ROAD_CUT_CHARGES",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_MTR_TESTING_FEE",
+    "name": "Water Meter Testing Fee",
+    "code": "WTR_SWG_WTR_MTR_TESTING_FEE_WATER_METER_TESTING_FEE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
+  {
+    "category": "FEE",
+    "service": "WTR_SWG.WTR_SWR_CON_ROAD_CUT_FEE",
+    "name": "Water Sewer Connection Road Cut Charge Fee",
+    "code": "WTR_SWG_WTR_SWR_CON_ROAD_CUT_FEE_WATER_SEWER_CONNECTION_ROAD_CUT_CHARGE_FEE",
+    "isDebit": false,
+    "isActualDemand": false,
+    "order": "0",
+    "isRequired": false
+  },
+
     {
       "category": "CHARGES",
       "service": "FSM.TPRIP_CHARGES",
